@@ -1,6 +1,6 @@
 <head>
     <link rel="stylesheet" href="styles.css" />
-    <title> Aluraflix </title>
+    <titulo> Aluraflix </titulo>
 </head>
 
 <body>
