@@ -11,7 +11,7 @@
 
 <header>ALURAFLIX</header>
 
-<section>
+<section class="chamada">
 <div class="chamada-texto">
 <h1>Vlog: COMPRINHAS DE AUTOCUIDADO</h1>
 <p>#compras</p>
@@ -21,7 +21,7 @@
 </div>
 </section>
 
-<section>
+<section class="categoria">
      <h2>filmes e séries</h2>
      <div class="categoria-videos">
          <a href=https://www.youtube.com/watch?v=FB0QwSvWO20" >
