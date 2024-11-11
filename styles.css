@@ -51,7 +51,7 @@ img {
     height: 200px;
 }
 
-.categoria-videos img: :hover {
+.categoria-videos img:hover {
       opacity: 1,0;
-      border: 1px solid pink ; 
+      border: 1px solid deeppink; 
 }
