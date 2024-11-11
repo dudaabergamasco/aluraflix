@@ -2,3 +2,7 @@ BODY {
     color:deeppink;
     background:black;
 } 
+
+header {
+    border: solid 2px deeppink;
+}
