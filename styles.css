@@ -3,6 +3,7 @@ BODY {
     background:black;
     margin: 0px;
     font-family: "Edu AU VIC WA NT Pre", cursive;
+    margin-bottom: 100px;
 } 
 
 header {
@@ -44,6 +45,7 @@ img {
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 
 .categoria-videos  img {
